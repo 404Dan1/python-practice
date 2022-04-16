@@ -40,7 +40,7 @@ def tel_translator():
     def display():
         # output the result of the users input
 
-        global telephone_numbers
+        
 
         phone_num = []
 

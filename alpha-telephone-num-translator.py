@@ -50,7 +50,7 @@ def tel_translator():
 
             if letter_number.isalpha():
                 let_num = num_letters.get(letter_number.upper())
-                phone_num.append(str(let_num))
+                (phone_num.append(str(let_num)))
 
             first_ = ''.join(phone_num[0:3]) + '-'
             second_ = ''.join(phone_num[3:6]) + '-'

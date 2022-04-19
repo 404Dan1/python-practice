@@ -1,4 +1,4 @@
-
+# AVERAGE STEPS TAKEN
 # A personal Fitness Tracker is a wearable device that tracks your physical activity, calories burned,
 #   heart rate, sleeping patterns, and so on. One common physical activity the most of these devices track
 #   is the number of steps you take each day.

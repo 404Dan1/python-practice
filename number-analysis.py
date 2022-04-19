@@ -5,6 +5,8 @@
 #     + The highest number in the list
 #     + The total of the numbers in the list
 #     + The average of the numbers in the list
+# :Minor Alteration: Instead of asking the user to input values, this will generate 20 random numbers between
+#   1 & 100
 
 
 import random
